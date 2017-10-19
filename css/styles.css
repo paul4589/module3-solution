@@ -61,7 +61,7 @@ h3 {
     background-color: #3e8e41;
 }
 
-@media (min-width: 767px) {
+@media (min-width: 900px) {
 	.dropbtn {
     display:none;
     }
