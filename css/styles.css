@@ -4,7 +4,8 @@ h1 {
 	margin-bottom: 6vh;
 }
 h3 {
-	text-transform: uppercase;
+	text-transform: capitalize;
+	text-align: center;
 }
 .tall-section {
 	margin: 0;
@@ -60,7 +61,13 @@ h3 {
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
 }
+section1{
 
+height: 90%; 
+text-align:center; 
+display:table;
+width:100%;
+}
 @media (min-width: 900px) {
 	.dropbtn {
     display:none;
